@@ -1,5 +1,6 @@
+![logo](https://github.com/khubaib-khan8/textutils/blob/main/download.jpg)
 # 💫 About Me:
-I'm a MERN stack developer.<br>I'm currently working on Frontend(JavaScript , React . JS) and Backend (Node . JS).<br>I'm a last year Student of Software Engineering.
+Hi<br>I'm a MERN stack developer.<br>I'm currently working on Frontend(JavaScript , React . JS) and Backend (Node . JS).<br>I'm a last year Student of Software Engineering.
 
 
 ## 🌐 Socials:
